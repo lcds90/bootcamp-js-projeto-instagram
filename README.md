@@ -2,6 +2,6 @@
 Bootcamp JS Game Developer realizado pela Digital Innovation One
 
 _______________________________________________________________________
-https://lcds90.github.io/bootcamp-js-projeto-instagram/
+http://instagram.lcds.me/
 
 ![Screenshoot](./img/screencapture.png)
