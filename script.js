@@ -2,7 +2,7 @@ var stylesInfo = [
   'background: linear-gradient(90deg, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%)',
   'color: darkslategrey',
   'display: block',
-  'padding: 25px 100px',
+  'padding: 100px',
   'line-height: 40px',
   'text-align: center',
   'font-weight: bold',
