@@ -7,28 +7,6 @@
     font-size:14px;
 }
 
-#backtolcdsme {
-    width: 80px;
-    height: 80px;
-    border-radius: 50%;
-    background-color: #0094f669;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    left:0
-}
-
-#backtolcdsme a {
-    /* background-color: #5e5e5eef; */
-    padding: 10px 0;
-    border-radius: 250px;
-    text-align: center;
-    color: black;
-    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.5);
-    z-index: 25;
-}   
-
 html {
     margin: 0;
     padding: 0;
